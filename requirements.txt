@@ -1,4 +1,4 @@
-sqlite3
+sqlite
 datetime==4.3
 requests==2.26.0
 aiogram==2.15
